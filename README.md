@@ -1,12 +1,24 @@
-# React + Vite
+# Nike Summer Collection – Landing Page 👟☀️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page for the **Nike Summer Collection**, built with **Vite + React + Tailwind CSS v4** and enhanced with **AOS (Animate on Scroll)** for smooth animations.  
+This project highlights sleek design, interactivity, and mobile responsiveness, perfect for showcasing products in style.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Responsive Design** – Works seamlessly across desktop, tablet, and mobile screens.  
+- **Modern UI/UX** – Clean typography, smooth layout, and Nike-inspired branding.  
+- **Interactive Animations** – Powered by [AOS](https://michalsnik.github.io/aos/) for scroll-based animations.  
+- **Reusable Components** – Modular React components for easy scalability.  
+- **Product Showcase** – Dynamic shoe cards with hover states and image switching.  
+- **Tailwind v4** – Utility-first styling with a fully customizable theme.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- [Vite](https://vitejs.dev/) – Next generation frontend tooling  
+- [React](https://react.dev/) – Component-based UI library  
+- [Tailwind CSS v4](https://tailwindcss.com/) – Utility-first CSS framework  
+- [AOS](https://www.npmjs.com/package/aos) – Animate on Scroll Library  
+
+---

@@ -108,4 +108,16 @@
     font-family: var(--font-montserrat);
     @apply text-slate-gray text-lg leading-7;
   }
+
+  .hover-grow {
+    @apply inline-block align-middle shadow-[0_0_1px_rgba(0,0,0,0)] 
+           transform-gpu backface-hidden 
+           [-moz-osx-font-smoothing:grayscale]
+           transition-transform duration-300;
+  }
+  .hover-grow:hover {
+    @apply scale-105; 
+  }
+
+  
 }

@@ -1,5 +1,5 @@
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, customer3, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -73,15 +73,21 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
-        rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        customerName: 'Penelope Garcia',
+        rating: 5.0,
+        feedback: "Oh my gosh, they’re bold and fabulous, and I’d totally rock them! They make a statement the moment you walk in."
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
+        customerName: 'Aaron Hotchner',
         rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        feedback: "They’re durable and reliable, which is what matters most. Definitely something I could count on."
+    },
+    {
+        imgURL: customer3,
+        customerName: 'Jennifer Jareau',
+        rating: 4.5,
+        feedback: "These are sleek and comfortable, perfect for long days on my feet. Stylish enough for casual wear, but practical too."
     }
 ];
 
