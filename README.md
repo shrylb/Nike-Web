@@ -1,7 +1,9 @@
 # Nike Summer Collection – Landing Page 👟☀️
 
-A modern and responsive landing page for the **Nike Summer Collection**, built with **Vite + React + Tailwind CSS v4** and enhanced with **AOS (Animate on Scroll)** for smooth animations.  
+A responsive landing page for the **Nike Summer Collection**, built with **Vite + React + Tailwind CSS v4** and enhanced with **AOS (Animate on Scroll)** for smooth animations.  
 This project highlights sleek design, interactivity, and mobile responsiveness, perfect for showcasing products in style.
+
+This site is live at https://shrylb.github.io/Nike-Web/ 
 
 ---
 
